@@ -8,7 +8,7 @@ const nuevoString = "null";
 const nuevoNumero = 13;
 
 // Crea una variable de tipo boolean.
-const nuevoBoolean = false;
+const nuevoBoolean = true;
 
 // Resuelve el siguiente problema matemático.
 const nuevaResta = 10 - 7 === 3;
